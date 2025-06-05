@@ -89,14 +89,11 @@ while (true) {
     alt="GitHub Stats" 
     height="130" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marcelo-Figueira6&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Marcelo-Figueira6&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-    height="130em" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-figueira6&locale=pt-br&hide=Cmake&exclude_repo=Sistema-WEB&layout=compact&langs_count=8&theme=react" 
-/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-figueira6&locale=pt-br&hide=Cmake&exclude_repo=Sistema-WEB&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </p>
 
 
