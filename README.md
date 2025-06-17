@@ -72,25 +72,16 @@ while (true) {
 <br/>
 <br/>
 
-### 📊 Estatísticas
+  <h2>📊 Estatísticas</h2>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="130" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marcelo-Figueira6&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-figueira6&locale=pt-br&hide=Cmake&exclude_repo=Sistema-WEB&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelo-figueira6&theme=tokyonight&show_icons=true" width="380" />
 
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-figueira6&layout=compact&theme=tokyonight" width="340" />
+
+  </div>
+
 
 
 
