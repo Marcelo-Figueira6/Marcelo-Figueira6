@@ -76,9 +76,10 @@ while (true) {
 
   <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelo-figueira6&theme=tokyonight&show_icons=true" width="380" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcelo-Figueira6&theme=tokyonight" width=40% />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-figueira6&layout=compact&theme=tokyonight" width="340" />
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcelo-Figueira6&theme=tokyonight&exclude={exclude} width=30% "
+/>
 
   </div>
 
